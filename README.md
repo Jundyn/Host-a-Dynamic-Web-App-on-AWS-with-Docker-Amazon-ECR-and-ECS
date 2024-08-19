@@ -5,7 +5,7 @@ This project demonstrates the deployment of a dynamic web application on AWS usi
 ## Project Overview
 
 The architecture comprises:
-![How_to_Host_a_Dynamic_Web_App_on_AWS_with_Docker_Amazon_ECR_and_Amazon_ECS](https://github.com/user-attachments/assets/fd0d4ded-e5c1-4b76-99a0-6af9d97bbfe0)
+https://github.com/Jundyn/Host-a-Dynamic-Web-App-on-AWS-with-Docker-Amazon-ECR-and-ECS/blob/main/How_to_Host_a_Dynamic_Web_App_on_AWS_with_Docker_Amazon_ECR_and_Amazon_ECS.jpg
 
 - **Docker**: For containerizing the application.
 - **Amazon ECR**: To store Docker images.
