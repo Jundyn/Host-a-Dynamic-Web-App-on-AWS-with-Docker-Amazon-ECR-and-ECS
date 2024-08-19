@@ -172,15 +172,13 @@ docker push <repository-uri>
 
 9. **Access Your Application**
    - Use the domain name registered with Route 53 to access your application via the Application Load Balancer.
-
-## Reference Diagram
-
-The reference diagram illustrating the architecture is available in the ![Alt text](https://github.com/user-attachments/assets/763fff77-e035-4606-950f-0d75e6c4b590)
-
-
 ## Scripts
 
 Deployment scripts and configurations are provided in the GitHub repository. Ensure to review and adjust them according to your environment and requirements.
+
+## Web Page
+
+The deployed web page is available in the ![Alt text](https://github.com/Jundyn/Host-a-Dynamic-Web-App-on-AWS-with-Docker-Amazon-ECR-and-ECS/blob/main/rentzone-webpage.png)
 
 ## Additional Resources
 
