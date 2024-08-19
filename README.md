@@ -175,7 +175,7 @@ docker push <repository-uri>
 
 ## Reference Diagram
 
-The reference diagram illustrating the architecture is available in the ![Alt text]How_to_Host_a_Dynamic_Web_App_on_AWS_with_Docker_Amazon_ECR_and_Amazon_ECS](https://github.com/user-attachments/assets/763fff77-e035-4606-950f-0d75e6c4b590)
+The reference diagram illustrating the architecture is available in the ![Alt text](https://github.com/user-attachments/assets/763fff77-e035-4606-950f-0d75e6c4b590)
 
 
 ## Scripts
